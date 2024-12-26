@@ -4,7 +4,7 @@
 module.exports = {
   siteMetadata: {
     title: `gatsby-github-test-app`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `http://localhost:8000/`
   },
   plugins: ["gatsby-plugin-netlify-cms"]
 };
